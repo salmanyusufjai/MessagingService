@@ -16,7 +16,7 @@
 ### Message information 
 	Inside messageFile.txt file
 			PRODUCTTYPE,PRICE,UNIT,QUANTITY,ADJUSTMENT
-		1)  MANGO,5,P,25 -> This is 1type of  message. It wil insert 5 Mengo of price 25 each into the messge api
+		1)  MANGO,5,P,25 -> This is 1type of  message. It wil insert 5 Mango of price 25 each into the messge api
 		2)  MANGO,2,P,0,SUBTRACT -> This is 2type of message. It wil adjust each mango price by subtract it with 2
 
 
